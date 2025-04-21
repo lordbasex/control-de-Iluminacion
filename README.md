@@ -99,7 +99,7 @@ Controles generales:
 ## Diagrama de Conexiones
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/lordbasex/control-de-Iluminacion/main/esp32-gpio.png" width="200" alt="esp32-gpio.png" />
+ <img src="https://raw.githubusercontent.com/lordbasex/control-de-Iluminacion/main/esp32-gpio.png"  alt="esp32-gpio.png" />
 </p>
 
 ---
