@@ -11,6 +11,8 @@ Este proyecto surge de la necesidad de programar un ESP32 para una maqueta de ar
   <img src="https://raw.githubusercontent.com/lordbasex/control-de-Iluminacion/main/maqueta02.jpeg" width="200" alt="Maqueta 02" />
   <img src="https://raw.githubusercontent.com/lordbasex/control-de-Iluminacion/main/maqueta03.jpeg" width="200" alt="Maqueta 03" />
   <img src="https://raw.githubusercontent.com/lordbasex/control-de-Iluminacion/main/maqueta04.jpeg" width="200" alt="Maqueta 04" />
+   <img src="https://raw.githubusercontent.com/lordbasex/control-de-Iluminacion/main/app01.jpeg" width="200" alt="App 01" />
+   <img src="https://raw.githubusercontent.com/lordbasex/control-de-Iluminacion/main/app02.jpeg" width="200" alt="App 02" />
 </p>
 
 ## 📥 Descargar el vídeo
